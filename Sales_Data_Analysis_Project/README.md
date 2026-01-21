@@ -26,5 +26,5 @@ Khayalethu Shezi
 
 
 ##  Date
-$(Get-Date -Format "yyyy-MM-dd HH:mm")
+21/01/2026
 "@ | Out-File -FilePath README.md -Encoding UTF8# Sales-data-analysis
