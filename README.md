@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Sales-data-analysis
-=======
 # Sales-data-analysis
 📌 Project Overview
 
