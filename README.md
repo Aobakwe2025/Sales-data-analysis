@@ -129,4 +129,3 @@ Preparing data for reporting and visualization
 ✅ Conclusion
 
 This project demonstrates the importance of proper data collection and management before analysis. By transforming raw sales data into a structured and analyzable format, meaningful insights can be generated to support decision-making.
->>>>>>> 54cbaccc8c699e4a770ef7513fe7f92abf132101
